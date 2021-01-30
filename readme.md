@@ -16,7 +16,7 @@ The models were evaluated using the same training and validation set and on the 
 | Linear Regression       | 0.60            | 0.64                 |
 | Random forest Regressor | 0.98            | 0.92                 |
 
-**From the above table, we see that the random forest model outperforms linear regression model by a huge margin. **
+**From the above table, we see that the random forest model outperforms linear regression model by a huge margin.**
 
 
 
